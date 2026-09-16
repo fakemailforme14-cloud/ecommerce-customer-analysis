@@ -39,14 +39,16 @@ This project analyzes 350 customers from an e-commerce platform, with 11 variabl
 ```
 ecommerce-customer-analysis/
 ├── README.md
+├── data/
+│   └── customers.csv
 ├── sql/
-│ └── ecommerce_db.sql
+│   └── ecommerce_db.sql
 ├── excel/
-│ └── ecommerce_analysis.xlsx
+│   └── ecommerce_analysis.xlsx
 ├── powerbi/
-│ └── ecommerce_dashboard.pbix
+│   └── ecommerce_dashboard.pbix
 └── docs/
-└── project_notes.docx
+    └── project_notes.docx
 ```
 
 ---
